@@ -1,6 +1,15 @@
 .
 
 
+
+## [Arabi how to install python easily](https://www.youtube.com/watch?v=7YS6YDQKFh0)
+
+
+
+.
+
+
+
 > # [Introducing Python in Excel](https://www.youtube.com/watch?v=FbBXtqtRnWU&t=47s)
 >
 > ==================================================================
