@@ -20,7 +20,7 @@ You can use Python INSIDE Excel now 😱 In this video I'll introduce this game 
 
 - ### [Python in Excel: a powerful combination for data analysis and visualization](https://www.youtube.com/watch?v=H4XbvL8Mglc)
 - ### [ NEW Python in Excel - PYTHON + EXCEL + ChatGPT = Easy! ](https://www.youtube.com/watch?v=-_1IaUjO-hk)
-
+- [Python In Excel - Getting Started - 2614](https://www.youtube.com/watch?v=KIhDQDtvZPg)
 - 
 .
 
