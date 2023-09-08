@@ -3,7 +3,8 @@
 
 > # [Introducing Python in Excel](https://www.youtube.com/watch?v=FbBXtqtRnWU&t=47s)
 >
-> =====================================================================================
+> ==================================================================
+> 
 
 .
 
@@ -17,7 +18,7 @@ You can use Python INSIDE Excel now 😱 In this video I'll introduce this game 
 > **Plus check the announcement from Microsoft: [In this link](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)**
 
 
-
+- [arabic idea](https://www.youtube.com/watch?v=frceeS7w5eQ)
 - ### [Python in Excel: a powerful combination for data analysis and visualization](https://www.youtube.com/watch?v=H4XbvL8Mglc)
 - ### [ NEW Python in Excel - PYTHON + EXCEL + ChatGPT = Easy! ](https://www.youtube.com/watch?v=-_1IaUjO-hk)
 - [Python In Excel - Getting Started - 2614](https://www.youtube.com/watch?v=KIhDQDtvZPg)
