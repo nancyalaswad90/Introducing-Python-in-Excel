@@ -17,6 +17,10 @@ You can use Python INSIDE Excel now 😱 In this video I'll introduce this game 
 > **Plus check the announcement from Microsoft: [In this link](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)**
 
 
+
+- ### [Python in Excel: a powerful combination for data analysis and visualization](https://www.youtube.com/watch?v=H4XbvL8Mglc)
+
+- 
 .
 
 
