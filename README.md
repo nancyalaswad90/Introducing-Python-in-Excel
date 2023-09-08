@@ -8,7 +8,9 @@
 .
 
 You can use Python INSIDE Excel now 😱 In this video I'll introduce this game changing new functionality of working with Python inside Excel.  Is Python in Excel for non-programmers? Can everyday data analysts make use of it? I'll answer these in the video.
-Plus checkout the announcement from Microsoft: https://techcommunity.microsoft.com/t...
+
+
+> **Plus check the announcement from Microsoft: [In this link](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)**
 
 
 ### If you have this feature which is currently free to use in Microsoft 365 Insiders
